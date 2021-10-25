@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdab9406-c1f1-4dc2-ae66-a34d0c1bfabd" name="Default Changelist" comment="" />
+    <list default="true" id="bdab9406-c1f1-4dc2-ae66-a34d0c1bfabd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -28,18 +37,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1n7Obfly92cfzwkL7Iqf0LmzIR1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="JPA.DatabaseSchemaImportDialog" value="15f09696-f292-4010-914f-66e3cc6d9fbb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,6 +92,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -89,56 +104,24 @@
       <option name="presentableId" value="Default" />
       <updated>1610737735385</updated>
       <workItem from="1610737744826" duration="5251000" />
+      <workItem from="1635154012812" duration="304000" />
+      <workItem from="1635154334449" duration="71000" />
     </task>
+    <task id="LOCAL-00001" summary="wgranie projektu">
+      <created>1635154210296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635154210296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="522" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610744063987">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="522" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610744063987" />
-    <state x="689" y="320" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610987446108">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="320" key="#com.intellij.ide.util.PackageChooserDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987446108" />
-    <state x="592" y="211" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610738751233">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="592" y="211" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738751233" />
-    <state x="701" y="445" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1610738793025">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="701" y="445" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738793025" />
-    <state x="630" y="73" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1610987459761">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="630" y="73" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987459761" />
-    <state x="761" y="388" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610739487421">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="388" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610739487421" />
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610987242477">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987242477" />
-    <state x="1014" y="256" key="FileChooserDialogImpl" timestamp="1610738630667">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1014" y="256" key="FileChooserDialogImpl/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738630667" />
-    <state x="508" y="126" key="SettingsEditor" timestamp="1610738808693">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="508" y="126" key="SettingsEditor/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738808693" />
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1610987417291">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987417291" />
-    <state x="342" y="227" key="new project wizard" timestamp="1610738626593">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="227" key="new project wizard/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738626593" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wgranie projektu" />
+    <option name="LAST_COMMIT_MESSAGE" value="wgranie projektu" />
   </component>
 </project>
