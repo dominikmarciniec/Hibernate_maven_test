@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdab9406-c1f1-4dc2-ae66-a34d0c1bfabd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n7Obfly92cfzwkL7Iqf0LmzIR1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="15f09696-f292-4010-914f-66e3cc6d9fbb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="hibernate" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:employees@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:employees@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6c7d89e4" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdab9406-c1f1-4dc2-ae66-a34d0c1bfabd" name="Default Changelist" comment="" />
+      <created>1610737735385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610737735385</updated>
+      <workItem from="1610737744826" duration="5251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610744063987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="522" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610744063987" />
+    <state x="689" y="320" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610987446108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="320" key="#com.intellij.ide.util.PackageChooserDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987446108" />
+    <state x="592" y="211" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610738751233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="211" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738751233" />
+    <state x="701" y="445" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1610738793025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="445" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738793025" />
+    <state x="630" y="73" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1610987459761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="73" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987459761" />
+    <state x="761" y="388" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610739487421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="388" width="398" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610739487421" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610987242477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987242477" />
+    <state x="1014" y="256" key="FileChooserDialogImpl" timestamp="1610738630667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1014" y="256" key="FileChooserDialogImpl/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738630667" />
+    <state x="508" y="126" key="SettingsEditor" timestamp="1610738808693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="126" key="SettingsEditor/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738808693" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1610987417291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610987417291" />
+    <state x="342" y="227" key="new project wizard" timestamp="1610738626593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="227" key="new project wizard/-1920.207.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610738626593" />
+  </component>
+</project>
